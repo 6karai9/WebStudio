@@ -50,6 +50,7 @@ img {
 .hover-focus:hover,
 .hover-focus:focus {
   color: $hover-color;
+  
 }
 .button-styles {
   border: none;
@@ -77,6 +78,7 @@ img {
   transition-duration: 250ms;
   transition-timing-function: cubic-bezier(0.4, 0, 0.2, 1);
 }
+
 .current {
   color: $hover-color;
 }

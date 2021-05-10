@@ -1,6 +1,6 @@
 .our-clients {
-  margin-top: 94px;
-  margin-bottom: 94px;
+  padding-top: 94px;
+  padding-bottom: 94px;
   text-align: center;
   color: $h1-h2-h3-color;
 }
@@ -15,8 +15,9 @@
 }
 @media screen and (max-width: 1200px) {
   .our-clients {
-    margin-top: 60px;
-    margin-bottom: 60px;
+    padding-top: 60px;
+    padding-bottom: 60px;
+    margin: 0;
   }
 }
 @media screen and (max-width: 767.98px) {
