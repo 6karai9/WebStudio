@@ -35,8 +35,16 @@
   fill: $logo-header-color;
 }
 
+// @media screen and (max-width: 478.98px) {
+//   .mobile-menu-button {
+//     display: inline-flex;
+//   }
+// }
+
 @media screen and (min-width: 767.98px) {
   .mobile-menu-button {
     display: none;
   }
 }
+
+
