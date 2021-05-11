@@ -20,6 +20,13 @@
     bottom: 106.6px;
     height: 294px;
 
+    @media screen and (max-width: 478.98px) {
+        bottom: 106.6px;
+        height: 189.46px;
+        font-size: 9px;
+        text-align: justify;
+    }
+
     @media screen and (min-width: 768px) and (max-width: 1199.98px) {
       bottom: 142.6px;
     }
